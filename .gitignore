@@ -2,3 +2,5 @@
 data/GRD_2023_muestra_cancer_UCV.csv
 data/GRD_2023_muestra_cancer_UCV_limpio.csv
 TesteoConDatasetEntero/GRD_PUBLICO_2023.csv
+notebooks/data/GRD_2023_muestra_cancer_UCV.csv
+notebooks/data/GRD_2023_muestra_cancer_UCV_limpio.csv
